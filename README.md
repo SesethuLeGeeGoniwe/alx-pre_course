@@ -1,2 +1,2 @@
 Hell,
-My ream is currently up to date
+My readme is currently up to date
